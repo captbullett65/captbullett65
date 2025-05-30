@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @captbullett65
-- 👀 I’m interested in ... LLMs as "Agents"  two or more LLMs (GPT-4.0 and Copilot inbeded in Edge browser) to help track my Forecasting with RAND(RFI) and Good Judgement Open and IARPA.
+- 👀 I’m interested in ... LLMs as "Agents"  two or more LLMs (GPT-4.0 and Copilot inbeded in Edge browser) to help track my Forecasting with RAND(RFI) and Good Judgement Open, RANGE+(ARC chatbot), and IARPA.
 - 🌱 I’m currently learning ... Py and LLMs
 - 💞️ I’m looking to collaborate on ... LLMs to forecast probabilities with (RFI) and (GJO) I hve been forecasting for over 12 years
 - 📫 How to reach me ... brianhelip@outlool.com
